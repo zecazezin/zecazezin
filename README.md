@@ -1,7 +1,7 @@
 ## Boas vindas ao meu perfil 💙💙
 Meu nome é José Henrique
 
-Estou estudando na Alura
+Estou estudando na [Alura](https://www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -11,8 +11,5 @@ Você pode entrar em contato comigo 📫
 
 @alurastartestudante
 
-<!--
-A palavra **limão** deve ser destacada.
 
-> Escrito por Alura Start
--->
+![](https://media.tenor.com/XprpuH1iQNkAAAAM/ronaldo.gif)
